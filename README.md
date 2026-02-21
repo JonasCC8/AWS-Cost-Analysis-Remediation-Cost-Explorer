@@ -20,7 +20,7 @@ Proyecto enfocado en el análisis de costos en AWS utilizando AWS Cost Explorer 
 # 🏗️ Arquitectura Conceptual
 
 <p align="center">
-  <img src="images/cost-analysis-architecture.png" width="900">
+  <img src="cost-analysis-architecture.png" width="900">
 </p>
 
 ---
